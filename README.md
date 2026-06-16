@@ -1,2 +1,13 @@
-# Gas-Leakage-Detection
-This project is a real-time gas leakage detection system developed using Arduino Uno and MQ-series gas sensors (MQ-2/MQ-5). The system continuously monitors gas concentration levels and sends SMS alerts through a GSM module when gas leakage is detected, helping improve safety in residential and industrial environments.
+# Gas Leakage Detection System
+
+## Circuit Diagram
+
+![Circuit Diagram](images/Circuit%20Diagram%20(2).png)
+
+## Block Diagram
+
+![Block Diagram](images/Block%20Diagram.png)
+
+## Final Prototype
+
+![Prototype](images/Final%20Prototype.jpg)
